@@ -5,7 +5,7 @@
 
 ### 🛠️ Tech & Tools  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=python,php,js,nodejs,laravel,linux,docker,git,github" />  
+  <img src="https://skillicons.dev/icons?i=python,php,js,nodejs,vuejs,golang,laravel,linux,docker,git,github" />  
 </p>
 
 ---
@@ -27,5 +27,5 @@
 
 ### 🔗 Connect with Me  
 - GitHub: [github.com/aknafff07](https://github.com/aknafff07)  
-- Email: yourmail@example.com  
+- Email: aknafsaputra216@gmail.com  
 - Portfolio: coming soon 👀

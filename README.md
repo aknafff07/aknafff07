@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aknaf Saputra</h1>
+<p align="center">Backend & Web Developer | Linux & Open-Source Enthusiast 🐧</p>
 
-<!--
-**aknafff07/aknafff07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech & Tools  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=python,php,js,nodejs,laravel,linux,docker,git,github" />  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 What I Do  
+- 🔧 Membangun aplikasi backend & API dengan PHP / Laravel / Node.js  
+- 🐍 Scripting & automatisasi dengan Python  
+- 🐳 Containerization & deployment (Docker)  
+- 💻 Eksplorasi Linux / open-source & sistem backend  
+
+---
+
+### 📈 GitHub Stats  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aknafff07&show_icons=true&theme=tokyonight" alt="github-stats" />
+</p>
+
+---
+
+### 🔗 Connect with Me  
+- GitHub: [github.com/aknafff07](https://github.com/aknafff07)  
+- Email: yourmail@example.com  
+- Portfolio: coming soon 👀

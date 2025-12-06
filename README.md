@@ -18,8 +18,6 @@
 
 ---
 
----
-
 ### 🔗 Connect with Me  
 - GitHub: [github.com/aknafff07](https://github.com/aknafff07)  
 - Email: aknafsaputra216@gmail.com  

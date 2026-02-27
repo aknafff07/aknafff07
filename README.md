@@ -5,7 +5,7 @@
 
 ### 🛠️ Tech & Tools  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=python,php,js,nodejs,vuejs,golang,laravel,linux,docker,git,github,reactjs" />  
+  <img src="https://skillicons.dev/icons?i=python,php,js,nodejs,vuejs,golang,laravel,linux,docker,git,github,react" />  
 </p>
 
 ---

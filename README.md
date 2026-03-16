@@ -21,4 +21,4 @@
 ### 🔗 Connect with Me  
 - GitHub: [github.com/aknafff07](https://github.com/aknafff07)  
 - Email: aknafsaputra216@gmail.com  
-- Portfolio: coming soon 👀
+- Portfolio: https://portofolio-iota-umber.vercel.app/
